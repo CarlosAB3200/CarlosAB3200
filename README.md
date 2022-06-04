@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CarlosAB3200
 - 👀 I’m interested in C# and SSMS
 - 🌱 I’m currently learning Harvard CC50 
-- 💞️ I’m looking to collaborate on Health Science and Machine Learing
+- 💞️ I’m looking to collaborate whith my friends on learning
 - 📫 Reach me on carlosbasoli@gmail.com
 
 <!---
